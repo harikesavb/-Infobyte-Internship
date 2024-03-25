@@ -25,5 +25,21 @@ Create a command-line BMI calculator in Python. Prompt users for their weight (i
 ![BMI output](https://github.com/harikesavb/-Infobyte-Internship/assets/111637722/754f517e-3e5f-4983-8008-ea84bc81c9d9)
 
 
+# Task - 3 (Random Password Generator)
+
+ Create a command-line password generator in Python that generates random passwords based on user-defined criteria, such as length and character types (letters, numbers, symbols). Allow users to specify password length and character set preferences.
+
+
+# Key Concepts and Challenges:
+
+1. Randomization: Learn how to generate random characters and strings.
+2. User Input Validation: Validate user input for password length and character types.
+3. Character Set Handling: Manage different character sets (letters, numbers, symbols).
+
+
+![Screenshot 2024-03-25 214130](https://github.com/harikesavb/-Infobyte-Internship/assets/111637722/e43f583e-9c03-4145-89c6-3199568e410d)
+
+
+
 
 
